@@ -1,7 +1,7 @@
 # Hi there, I'm laidix! 👋
 
 🚀 **Developer | Porter**  
-I love porting stuff for FREE, love to experiment, and sharing my done work with the community.
+I love porting stuff, love to experiment, and sharing my open source work with the community.
 
 ---
 
@@ -9,12 +9,7 @@ I love porting stuff for FREE, love to experiment, and sharing my done work with
 **Languages:** Python, Java, C#  
 **Frameworks:** Unity  
 **Tools:** Git, Docker, VS Code, Postman  
-**Special Interests:** KernelSU modules, Android customization, Web UIs
-
----
-
-## 📌 Featured Projects
-- **[ShadowCat](https://github.com/laidix/shadowcat)** – A KernelSU module with a modern WebUI and real-time logcat streaming(COMING SOON!)  
+**Special Interests:** KernelSU modules, Android customization, Web UIs, Figma designing
 
 ---
 
