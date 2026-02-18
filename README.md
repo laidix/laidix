@@ -1,1 +1,1 @@
-![laidix Banner Image(./Banner.png)
+![laidix Banner Image](./Banner.png)
