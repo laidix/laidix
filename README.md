@@ -1,1 +1,1 @@
-No idea for now for readme, will add later
+![laidix Banner Image(./Banner.png)
